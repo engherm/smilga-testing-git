@@ -1,0 +1,12 @@
+body {
+  background: blue;
+  text-align: center;
+}
+
+h1 {
+  display: inline-block;
+  text-align: center;
+  color: white;
+  background: rgb(122, 122, 240);
+  margin: 0 auto;
+}
